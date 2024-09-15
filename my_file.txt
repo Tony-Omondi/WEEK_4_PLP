@@ -1,0 +1,6 @@
+Hello, world!
+Python file handling tutorial.
+This file contains both text and numbers: 12345
+Appending more content...
+Python makes file handling easy.
+Numbers can also be written: 67890
